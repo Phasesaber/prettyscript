@@ -29,9 +29,9 @@ radically different.
      if z                                   if (z)
        Bloop 123                              return Bloop(123);
      else                                   else
-       this.bleep = $zing                     return this.bleep=$zing;});}
-     end
-   end
+       this.bleep = $zing                     return this.bleep=$zing;
+     end                                  });
+   end                                  }
  end
 
 Notice a few things:
